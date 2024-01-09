@@ -1,0 +1,11 @@
+.div1{
+    height: 650px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.textfeild{
+    width: 300px;
+}
